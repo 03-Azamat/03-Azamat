@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @03-Azamat
-- About me:
+- 👋 Hi, I’m @03-Azamat.
 
--I am currently a student and intern at Motion Web LLC.
 -🖥️ I’m currently learning ReactJs(NextJs) / NodeJs(NestJs)
 -👯 I’m looking to collaborate on ReactJS-NextJs-NodeJS-MongoDB Projects
 -📫 How to reach me: @Telegram, Instagram:@shakirov1__, @Linkedin, Email: azamatnurov10@gmail.com
