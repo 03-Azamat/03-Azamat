@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @03-Azamat.
 - 
 - Aboute me:
-- 
 -✨ I am currently a student and intern at Motion Web LLC.
 -🖥️ I’m currently learning ReactJs(nextJs) ,Typescript, NodeJs.
 -👯 I’m Looking to coolaborate on ReactJs-NextJs Projects.
