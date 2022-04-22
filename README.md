@@ -2,12 +2,11 @@
 - 
 - Aboute me:
 - 
-- I’m currently learning ReactJs(nextJs)
-- 
--🖥️ I’m currently learning ReactJs(NextJs) / NodeJs(NestJs)
--👯 I’m looking to collaborate on ReactJS-NextJs-NodeJS-MongoDB Projects
--📫 How to reach me: @Telegram, Instagram:@shakirov1__, @Linkedin, Email: azamatnurov10@gmail.com
--Mobile: +996 700 24-27-30.
+-✨ I am currently a student and intern at Motion Web LLC.
+-🖥️ I’m currently learning ReactJs(nextJs) ,Typescript, NodeJs.
+-👯 I’m Looking to coolaborate on ReactJs-NextJs Projects.
+-📫 How to react me: @Telegram (@NurovAza), Instagram:@shakirov1__ ,@Linkedin:, Email: @azamatnurov10@gmail.com
+- Mobile: +996 700 24-27-30
 
 <!---
 03-Azamat/03-Azamat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
