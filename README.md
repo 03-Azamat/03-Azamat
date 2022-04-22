@@ -4,7 +4,7 @@
 - ✨ I am currently a student and intern at Motion Web LLC.
 - 🖥️ I’m currently learning ReactJs(nextJs) ,Typescript, NodeJs.
 - 👯 I’m Looking to coolaborate on ReactJs-NextJs Projects.
-- 📫 How to react me: @Telegram (@NurovAza), Instagram:@shakirov1__ ,@Linkedin:, Email: @azamatnurov10@gmail.com
+- 📫 How to react me: @Telegram <a href="@Telegram">Telegram</a>, Instagram:@shakirov1__ ,@Linkedin:, Email: @azamatnurov10@gmail.com
 - Mobile: +996 700 24-27-30
  
 <!---
